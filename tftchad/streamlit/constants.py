@@ -3,7 +3,7 @@
 PAGE_ICON = "🤖"
 PAGES_ICON = "img/tftus.png"
 APP_NAME = "TFTChad"
-PROJECT_URL = "https://github.com/gustavz/DataChad"
+PROJECT_URL = "https://github.com/pathakanu/TFTChad"
 DEFAULT_DATA_SOURCE = "https://github.com/gustavz/DataChad.git"
 
 
